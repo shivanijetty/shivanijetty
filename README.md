@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js and Next.js
 - 📫 How to reach me: shivanijetty@gmail.com
 - 💪 Languages & Tools:
-  React.js | React Native | Ruby on Rails | JavaScript | Python | Flask | HTML5 | CSS
+  React.js | React Native | Ruby on Rails | JavaScript | Python | Flask | Node.js | Express | HTML5 | SCSS | CSS
 
 
 <!--
